@@ -1,0 +1,290 @@
+{
+  "nav": {
+    "solutions": "솔루션",
+    "metrics": "성과",
+    "howItWorks": "도입 과정",
+    "contact": "문의"
+  },
+  "hero": {
+    "badge": "브랜드 커머스 OS",
+    "headlinePre": "브랜드 커머스, ",
+    "headlineHighlight": "시스템",
+    "headlinePost": "으로 운영하세요.",
+    "subline": "아마존 광고, 리스팅 최적화, AI 검색 콘텐츠까지. 플랫폼 운영은 ROA에게 맡기고, 팀은 제품에 집중하세요.",
+    "proof": "운영 매출 $1M+ · 캠페인 300+ · 24/7 자동 운영",
+    "cta1": "도입 과정 보기",
+    "cta2": "데모 예약"
+  },
+  "trustedBy": {
+    "title": "글로벌 브랜드가 선택한"
+  },
+  "audience": {
+    "titlePre": "지금의 구조로는 ",
+    "titleHighlight": "한계",
+    "titlePost": "인 브랜드를 위해 만들었습니다.",
+    "subtitle": "해외 시장 진출, 성장 정체, 운영 주도권 회복 — 어디에 있든 ROA가 커머스 팀이 됩니다.",
+    "cards": [
+      {
+        "title": "제조사의 D2C 도전",
+        "description": "제품력은 있는데, 아마존 운영 경험도 커머스 팀도 없다면. ROA가 첫날부터 광고, 리스팅, 콘텐츠, 성장 전략을 운영합니다."
+      },
+      {
+        "title": "성장이 멈춘 브랜드",
+        "description": "대행사가 광고는 돌리는데, 성장을 책임지는 사람은 없습니다. 채널은 따로 놀고, 데이터는 흩어져 있고, 규모를 키우려면 비용만 늘어납니다."
+      },
+      {
+        "title": "주도권을 되찾는 브랜드",
+        "description": "광고 계정, 데이터, 전략 — 대행사가 쥐고 있지 않나요? ROA는 모든 것을 투명하게 보여주고, 주도권은 브랜드에 돌려드립니다."
+      }
+    ],
+    "stat": "최고의 커머스 브랜드는 팀이 더 큰 게 아닙니다. 시스템이 더 좋습니다.",
+    "transition": "하나의 시스템이 모든 채널을 운영하고, 실시간으로 판단하고, 매 성과에서 학습한다면?"
+  },
+  "problem": {
+    "title": "채널은 늘어나는데, 팀은 그대로입니다.",
+    "opening": "아마존, Shopify, AI 검색, 소셜 — 채널마다 알고리즘이 다르고, 운영 방식이 다르고, 속도가 다릅니다. 이기는 브랜드는 모든 채널에서 동시에, 실시간으로 움직이는 브랜드입니다.",
+    "cards": [
+      {
+        "title": "채널이 너무 많습니다",
+        "description": "플랫폼마다 다른 전문가, 다른 도구, 다른 전략이 필요합니다. 전체를 하나로 잇는 사람은 없고, 빈틈은 곧 매출 손실입니다."
+      },
+      {
+        "title": "대응이 너무 느립니다",
+        "description": "주간 리포트를 읽을 때쯤 시장은 이미 바뀌어 있습니다. 실시간 시장에는 실시간 운영이 필요합니다."
+      },
+      {
+        "title": "확장 비용이 너무 큽니다",
+        "description": "채널이 하나 늘 때마다 사람도, 비용도 함께 늡니다. 성장할수록 비용이 비례해서 올라가는 구조는 한계가 있습니다."
+      }
+    ],
+    "stat": "최고의 커머스 브랜드는 팀이 더 큰 게 아닙니다. 시스템이 더 좋습니다.",
+    "transition": "하나의 시스템이 모든 채널을 운영하고, 실시간으로 판단하고, 매 성과에서 학습한다면?"
+  },
+  "solutions": {
+    "titlePre": "커머스 운영, ",
+    "titleHighlight": "AI",
+    "titlePost": "가 맡습니다.",
+    "subtitle": "광고, 콘텐츠, 검색 각 영역에 특화된 AI 엔진 — 그리고 전체를 한눈에 보여주는 커맨드 센터.",
+    "amazon": {
+      "title": "Amazon Ads Engine",
+      "description": "아마존 비즈니스 전체를 24시간 자동으로 운영합니다. 실시간 입찰부터 시장 분석, 리스팅 최적화, 검색어 관리, 고객 데이터까지.",
+      "capabilities": [
+        {
+          "title": "실시간 입찰 최적화",
+          "description": "SP, SB, SD 캠페인을 배치 단위로 실시간 조정합니다. 주간 리뷰가 아니라 지금, 바로."
+        },
+        {
+          "title": "시장 분석",
+          "description": "경쟁 포지셔닝, 카테고리 트렌드, 가격 인텔리전스를 매일 업데이트합니다."
+        },
+        {
+          "title": "리스팅 감사",
+          "description": "모든 이미지를 검증된 기준과 비교 분석합니다. 슬롯별 점수와 구체적인 개선 방향을 제시합니다."
+        },
+        {
+          "title": "검색어 최적화",
+          "description": "전환이 일어나는 검색어를 찾고, 잘 되는 키워드를 확장하고, 안 되는 건 정리합니다."
+        },
+        {
+          "title": "고객 데이터",
+          "description": "재구매 주기, 브랜드 충성도 신호, 고객 생애가치를 추적하고 실행에 반영합니다."
+        }
+      ]
+    },
+    "contents": {
+      "title": "Contents Engine",
+      "description": "리스팅 이미지를 분석하고, 탑셀러 패턴을 학습하고, 전환을 만드는 카피 인사이트를 추출합니다 — 감이 아니라 데이터로 콘텐츠를 만듭니다.",
+      "capabilities": [
+        {
+          "title": "이미지 품질 분석",
+          "description": "모든 상품 이미지를 카테고리 기준으로 채점합니다 — 구도, 텍스트 오버레이, 라이프스타일 컨텍스트, 모바일 가독성까지."
+        },
+        {
+          "title": "탑셀러 패턴 분석",
+          "description": "카테고리 베스트셀러가 다르게 하는 것을 역설계합니다 — 레이아웃, 메시징, 소구 포인트 강조 방식."
+        },
+        {
+          "title": "카피 인사이트",
+          "description": "고전환 리스팅에서 핵심 문구, 베네핏 프레이밍, 키워드 배치를 추출합니다. 패턴을 플레이북으로 만듭니다."
+        }
+      ]
+    },
+    "geo": {
+      "title": "GEO Engine",
+      "description": "지역 타겟 블로그 발행, SEO 모니터링, 키워드 순위 추적 — AI 검색 엔진과 사람 모두를 위한 콘텐츠 엔진입니다.",
+      "capabilities": [
+        {
+          "title": "블로그 자동 발행",
+          "description": "리서치부터 작성, 발행까지 자동화. 상품 링크와 성과 추적이 포함된 아티클을 매일 게시합니다."
+        },
+        {
+          "title": "SEO 모니터링",
+          "description": "사이트 건강도, 색인, 기술적 SEO 지표를 실시간으로 추적합니다. 문제는 자동 감지 및 수정."
+        },
+        {
+          "title": "키워드 순위 추적",
+          "description": "수백 개 키워드의 포지션을 추적합니다. 트렌드 시각화, 기회 발굴, 전략 적응."
+        },
+        {
+          "title": "분야 전문성 구축",
+          "description": "브랜드가 해당 카테고리의 대표 정보원이 되도록 체계적으로 콘텐츠를 쌓아갑니다."
+        }
+      ]
+    },
+    "dashboard": {
+      "title": "Command Center",
+      "description": "Amazon, Shopify, Meta 전 채널의 통합 ROAS — 실시간 활동 피드, 월간 요약, 성과 모니터링을 한 화면에서.",
+      "capabilities": [
+        {
+          "title": "통합 ROAS",
+          "description": "채널별, 전체 광고 수익률을 한 화면에서 확인. 스프레드시트 정리는 이제 그만."
+        },
+        {
+          "title": "실시간 활동 피드",
+          "description": "입찰 변경, 콘텐츠 발행, 캠페인 업데이트 — 발생하는 즉시 기록되고 표시됩니다."
+        },
+        {
+          "title": "월간 요약",
+          "description": "매출, 광고비, ROAS, 주문 수 — 자동 집계되어 이해관계자에게 바로 공유 가능."
+        }
+      ]
+    },
+    "callout": "대시보드가 아닙니다. 챗봇이 아닙니다. 생각하고, 실행하고, 배우는 시스템입니다."
+  },
+  "metrics": {
+    "title": "숫자로 증명합니다.",
+    "subtitle": "ROA 플랫폼에서 운영 중인 전체 브랜드의 종합 성과입니다.",
+    "stats": [
+      { "value": "$1M+", "label": "운영 매출" },
+      { "value": "300+", "label": "활성 캠페인" },
+      { "value": "24/7", "label": "자동 운영" },
+      { "value": "0%", "label": "이탈률" }
+    ],
+    "caseStudy": "아마존 첫해 매출 $0에서 $1M을 달성한 제조사 브랜드를 포함합니다.",
+    "highlights": [
+      {
+        "metric": "1,500+",
+        "description": "일일 입찰 최적화"
+      },
+      {
+        "metric": "10K+",
+        "description": "누적 주문 처리"
+      },
+      {
+        "metric": "500+",
+        "description": "발행 콘텐츠 페이지"
+      }
+    ]
+  },
+  "howItWorks": {
+    "titlePre": "몇 달이 아니라, ",
+    "titleHighlight": "며칠",
+    "titlePost": "이면 됩니다.",
+    "subtitle": "연동부터 본격 운영까지 네 단계.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "연동",
+        "description": "Seller Central, Shopify, 광고 계정을 연결합니다. ROA가 전 채널의 과거 데이터를 한번에 가져옵니다."
+      },
+      {
+        "number": "02",
+        "title": "분석",
+        "description": "시장 내 포지션, 경쟁사 현황, 콘텐츠 공백, 광고 효율 — AI가 전체 그림을 그립니다."
+      },
+      {
+        "number": "03",
+        "title": "운영",
+        "description": "입찰, 콘텐츠 발행, 리스팅 최적화, 캠페인 관리 — 첫날부터 24시간 가동됩니다."
+      },
+      {
+        "number": "04",
+        "title": "성장",
+        "description": "모든 판단을 측정하고 피드백합니다. 사이클이 돌수록 정밀해지고, 성과는 복리로 쌓입니다."
+      }
+    ]
+  },
+  "landscape": {
+    "titlePre": "더 나은 에이전시가 아닙니다. 다른 ",
+    "titleHighlight": "모델",
+    "titlePost": "입니다.",
+    "subtitle": "ROA는 기존 방식의 업그레이드가 아닙니다. 커머스 운영에 대한 근본적으로 다른 접근입니다.",
+    "headers": ["역량", "에이전시", "SaaS 도구", "블랙박스 AI", "ROA"],
+    "rows": [
+      { "capability": "실시간 실행", "agency": "false", "saas": "false", "blackbox": "partial", "brandos": "true" },
+      { "capability": "채널 통합 운영", "agency": "partial", "saas": "false", "blackbox": "false", "brandos": "true" },
+      { "capability": "판단 근거 설명", "agency": "false", "saas": "false", "blackbox": "false", "brandos": "true" },
+      { "capability": "성과 측정과 귀인", "agency": "false", "saas": "partial", "blackbox": "false", "brandos": "true" },
+      { "capability": "시간이 갈수록 개선", "agency": "false", "saas": "false", "blackbox": "partial", "brandos": "true" },
+      { "capability": "브랜드 맞춤 운영", "agency": "partial", "saas": "false", "blackbox": "false", "brandos": "true" }
+    ],
+    "callout": "에이전시는 사람의 시간을 팝니다. SaaS는 대시보드를 팝니다. 블랙박스 AI는 결과를 약속만 합니다. ROA는 눈에 보이고, 측정 가능하고, 설명 가능한 성장을 만듭니다."
+  },
+  "team": {
+    "title": "찾을 수 없어서, 직접 만들었습니다.",
+    "story": "우리는 Second Shower를 아마존에서 1년 만에 매출 ₩10억까지 키웠습니다. 모든 광고, 모든 리스팅, 모든 캠페인을 직접 운영하면서. 그 경험을 플랫폼으로 만들었습니다.",
+    "founders": [
+      {
+        "name": "Jay Park",
+        "role": "CEO",
+        "description": "前 미국 아마존 어그리게이터 PM. K-뷰티 브랜드 Rael을 $5M에서 $30M으로 성장시킨 커머스 전문가. 광고, 물류, 브랜드 전략 전반에 깊은 실무 경험."
+      },
+      {
+        "name": "Leo Park",
+        "role": "CPO",
+        "description": "프로덕트 리드 겸 디자인 엔지니어. 헬스테크 스타트업, SK케미칼 출신. 시드니대학교 졸업."
+      },
+      {
+        "name": "Kai Kim",
+        "role": "CTO",
+        "description": "Georgia Tech ML/AI 석사. ICML, CVPR 논문 게재. 대규모 프로덕션 AI 시스템 설계 5년 이상."
+      }
+    ],
+    "dna": "서울 · 샌프란시스코 · 시드니"
+  },
+  "cta": {
+    "titlePre": "사람을 더 뽑기 전에, ",
+    "titleHighlight": "시스템",
+    "titlePost": "을 먼저 붙이세요.",
+    "subtitle": "15분 데모로 ROA가 우리 브랜드에 어떤 변화를 만들 수 있는지 직접 확인하세요.",
+    "button": "데모 예약"
+  },
+  "contact": {
+    "title": "문의하기",
+    "subtitle": "ROA가 궁금하신가요? 브랜드에 대해 알려주시면, 가능성을 보여드리겠습니다.",
+    "name": "이름",
+    "namePlaceholder": "홍길동",
+    "email": "이메일",
+    "emailPlaceholder": "you@company.com",
+    "message": "메시지",
+    "messagePlaceholder": "운영 중인 브랜드와 채널에 대해 알려주세요...",
+    "send": "보내기",
+    "sending": "전송 중...",
+    "success": "전송 완료. 빠르게 연락드리겠습니다.",
+    "error": "오류가 발생했습니다. 다시 시도해 주세요."
+  },
+  "privacy": {
+    "title": "개인정보처리방침",
+    "lastUpdated": "최종 업데이트: 2026년 2월",
+    "content": "ROA(\"당사\")은 roa.global 웹사이트를 운영합니다. 이 페이지는 개인정보의 수집, 사용 및 공개에 관한 정책을 안내합니다.\n\n**수집하는 정보**\n문의 양식 사용 시 제공하시는 이름, 이메일 주소 등의 정보를 수집합니다.\n\n**정보 사용 방법**\n문의에 대한 응답 및 서비스에 대한 커뮤니케이션을 위해 정보를 사용합니다.\n\n**제3자 서비스**\n문의 양식은 Web3Forms를 통해 운영됩니다. 데이터 처리에 대한 자세한 내용은 해당 서비스의 개인정보처리방침을 참조하세요.\n\n**문의**\n이 정책에 대한 질문이 있으시면 hello@roa.global로 연락해 주세요."
+  },
+  "footer": {
+    "description": "아마존, DTC, AI 검색을 위한 커머스 AI 플랫폼.",
+    "navigation": "메뉴",
+    "legal": "법적 고지",
+    "privacy": "개인정보처리방침",
+    "terms": "이용약관",
+    "cookies": "쿠키 정책",
+    "connect": "연결",
+    "companyInfo": "사업자 정보",
+    "englishRecord": "영문 표기",
+    "koreanRecord": "국문 표기",
+    "rights": "모든 권리 보유."
+  },
+  "cookieConsent": {
+    "message": "사이트 이용 경험 개선과 트래픽 분석을 위해 쿠키를 사용합니다.",
+    "accept": "동의",
+    "decline": "거부",
+    "learnMore": "쿠키 정책"
+  }
+}

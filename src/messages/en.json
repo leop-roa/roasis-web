@@ -1,0 +1,290 @@
+{
+  "nav": {
+    "solutions": "Solutions",
+    "metrics": "Results",
+    "howItWorks": "How It Works",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Brand Commerce OS",
+    "headlinePre": "Your brand's ",
+    "headlineHighlight": "operating system",
+    "headlinePost": " for commerce.",
+    "subline": "ROA runs your Amazon ads, optimizes every listing, and publishes content for AI search — so your team can focus on product, not platforms.",
+    "proof": "$1M+ revenue managed · 300+ campaigns · 24/7 autonomous",
+    "cta1": "See How It Works",
+    "cta2": "Book a Demo"
+  },
+  "trustedBy": {
+    "title": "Trusted by world-class brands"
+  },
+  "audience": {
+    "titlePre": "Built for brands that ",
+    "titleHighlight": "outgrew",
+    "titlePost": " their setup.",
+    "subtitle": "Entering a new market, hitting a ceiling, or taking back control — ROA becomes the commerce team you need.",
+    "cards": [
+      {
+        "title": "Manufacturers going direct",
+        "description": "You have a great product but no Amazon expertise or commerce team. ROA becomes your team from day one — ads, listings, content, and growth strategy included."
+      },
+      {
+        "title": "Brands hitting a ceiling",
+        "description": "Your agency runs ads, but nobody owns growth. Channels are siloed, data is scattered, and scaling means more vendors and more cost."
+      },
+      {
+        "title": "Brands taking back control",
+        "description": "Your agency holds the keys to your ad accounts, your data, your strategy. ROA gives sovereignty back — you see everything, you own everything."
+      }
+    ],
+    "stat": "The best commerce brands don't have the biggest teams. They have the best systems.",
+    "transition": "What if one system could operate every channel, react in real time, and get smarter with every sale?"
+  },
+  "problem": {
+    "title": "More channels, same team.",
+    "opening": "Amazon, Shopify, generative search, social — every channel has its own algorithm, its own playbook, its own pace. The brands that win operate everywhere, simultaneously, without missing a beat.",
+    "cards": [
+      {
+        "title": "Too many channels",
+        "description": "Each platform demands a different specialist, a different tool, a different strategy. Nobody connects it all — and gaps become missed revenue."
+      },
+      {
+        "title": "Too slow to react",
+        "description": "Your weekly report is already outdated by the time you read it. Markets move in real time. Your operations should too."
+      },
+      {
+        "title": "Too expensive to scale",
+        "description": "Every new channel, market, or brand means more headcount and more cost. Growth shouldn't require a linear increase in people."
+      }
+    ],
+    "stat": "The best commerce brands don't have the biggest teams. They have the best systems.",
+    "transition": "What if one system could operate every channel, react in real time, and get smarter with every sale?"
+  },
+  "solutions": {
+    "titlePre": "Your commerce team, ",
+    "titleHighlight": "automated",
+    "titlePost": ".",
+    "subtitle": "Specialized AI engines for advertising, content, and search — with a unified command center to see it all.",
+    "amazon": {
+      "title": "Amazon Ads Engine",
+      "description": "Runs your entire Amazon business around the clock — real-time bidding, market analysis, listing optimization, search term management, and customer data.",
+      "capabilities": [
+        {
+          "title": "Real-Time Bidding",
+          "description": "SP, SB, SD campaigns optimized at the placement level, continuously. Not weekly reviews — live adjustments."
+        },
+        {
+          "title": "Market Analysis",
+          "description": "Competitive positioning, category trends, and pricing intelligence updated daily for smarter decisions."
+        },
+        {
+          "title": "Listing Audit",
+          "description": "Every image scored against proven benchmarks. Specific per-slot fixes so your listings convert better."
+        },
+        {
+          "title": "Search Term Optimization",
+          "description": "Finds high-converting search terms, expands what's working, cuts what's not — based on actual sales."
+        },
+        {
+          "title": "Customer Data",
+          "description": "Repeat purchase cycles, brand loyalty signals, and customer lifetime value tracked and acted on."
+        }
+      ]
+    },
+    "contents": {
+      "title": "Contents Engine",
+      "description": "Analyzes every listing image, studies top-seller patterns, and extracts the copy insights that actually convert — so your content is built on data, not guesswork.",
+      "capabilities": [
+        {
+          "title": "Image Quality Analysis",
+          "description": "Every product image scored against category benchmarks — composition, text overlay, lifestyle context, and mobile readability."
+        },
+        {
+          "title": "Top-Winner Patterns",
+          "description": "Reverse-engineers what the best-selling listings in your category do differently — layout, messaging, feature emphasis."
+        },
+        {
+          "title": "Copy Insights",
+          "description": "Extracts golden phrases, benefit framing, and keyword placement from high-converting listings. Turns patterns into playbooks."
+        }
+      ]
+    },
+    "geo": {
+      "title": "GEO Engine",
+      "description": "Geo-targeted blog publishing, SEO monitoring, and keyword ranking — designed for generative search engines and human readers alike.",
+      "capabilities": [
+        {
+          "title": "Automated Blog Publishing",
+          "description": "Targeted articles researched, written, and published daily — with product links and attribution baked in."
+        },
+        {
+          "title": "SEO Monitoring",
+          "description": "Track site health, indexing, and technical SEO metrics in real time. Issues flagged and fixed automatically."
+        },
+        {
+          "title": "Keyword Rankings",
+          "description": "Position tracking across hundreds of keywords. Trends visualized, opportunities surfaced, strategy adapted."
+        },
+        {
+          "title": "Niche Authority",
+          "description": "Systematic content strategy that makes your brand the go-to resource in your category for generative search."
+        }
+      ]
+    },
+    "dashboard": {
+      "title": "Command Center",
+      "description": "Unified cross-channel ROAS across Amazon, Shopify, and Meta — with live activity feeds, monthly summaries, and real-time performance monitoring.",
+      "capabilities": [
+        {
+          "title": "Unified ROAS",
+          "description": "See blended and per-channel return on ad spend in one view. No more spreadsheet reconciliation."
+        },
+        {
+          "title": "Live Activity Feed",
+          "description": "Every bid change, content publish, and campaign update — logged and visible as it happens."
+        },
+        {
+          "title": "Monthly Summaries",
+          "description": "Revenue, ad spend, ROAS, and orders — automatically compiled and ready for stakeholders."
+        }
+      ]
+    },
+    "callout": "Not a dashboard. Not a chatbot. A system that thinks, acts, and learns."
+  },
+  "metrics": {
+    "title": "The results speak for themselves.",
+    "subtitle": "Aggregate performance across every brand and campaign running on ROA.",
+    "stats": [
+      { "value": "$1M+", "label": "Revenue Managed" },
+      { "value": "300+", "label": "Active Campaigns" },
+      { "value": "24/7", "label": "Autonomous Operations" },
+      { "value": "0%", "label": "Client Churn" }
+    ],
+    "caseStudy": "Including a manufacturer we took from $0 to $1M in its first 12 months on Amazon.",
+    "highlights": [
+      {
+        "metric": "1,500+",
+        "description": "bid adjustments daily"
+      },
+      {
+        "metric": "10K+",
+        "description": "orders processed"
+      },
+      {
+        "metric": "500+",
+        "description": "pages published"
+      }
+    ]
+  },
+  "howItWorks": {
+    "titlePre": "Live in ",
+    "titleHighlight": "days",
+    "titlePost": ", not months.",
+    "subtitle": "From first connection to full operation in four steps.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Connect",
+        "description": "Link your Seller Central, Shopify, and ad accounts. ROA pulls in your full history across every channel."
+      },
+      {
+        "number": "02",
+        "title": "Understand",
+        "description": "AI maps your market position, competitor landscape, content gaps, and campaign performance."
+      },
+      {
+        "number": "03",
+        "title": "Execute",
+        "description": "Bidding, content publishing, listing optimization, and campaign management — running 24/7 from day one."
+      },
+      {
+        "number": "04",
+        "title": "Compound",
+        "description": "Every decision is measured and fed back. The system sharpens with each cycle. Growth compounds over time."
+      }
+    ]
+  },
+  "landscape": {
+    "titlePre": "Not a better agency. A better ",
+    "titleHighlight": "model",
+    "titlePost": ".",
+    "subtitle": "ROA isn't an upgrade to what exists — it's a fundamentally different approach to commerce operations.",
+    "headers": ["Capability", "Agency", "SaaS Tools", "Black Box AI", "ROA"],
+    "rows": [
+      { "capability": "Real-Time Execution", "agency": "false", "saas": "false", "blackbox": "partial", "brandos": "true" },
+      { "capability": "Cross-Channel Ops", "agency": "partial", "saas": "false", "blackbox": "false", "brandos": "true" },
+      { "capability": "Explainable Decisions", "agency": "false", "saas": "false", "blackbox": "false", "brandos": "true" },
+      { "capability": "Outcome Measurement", "agency": "false", "saas": "partial", "blackbox": "false", "brandos": "true" },
+      { "capability": "Self-Improving Over Time", "agency": "false", "saas": "false", "blackbox": "partial", "brandos": "true" },
+      { "capability": "Brand-Specific Context", "agency": "partial", "saas": "false", "blackbox": "false", "brandos": "true" }
+    ],
+    "callout": "Agencies sell hours. SaaS sells dashboards. Black-box AI sells magic. ROA delivers growth you can see, measure, and explain."
+  },
+  "team": {
+    "title": "We built what we couldn't find.",
+    "story": "We scaled Second Shower from zero to ₩10억 on Amazon in a single year — running every ad, every listing, every campaign ourselves. Then we turned that hard-won playbook into a platform.",
+    "founders": [
+      {
+        "name": "Jay Park",
+        "role": "CEO",
+        "description": "Former Amazon Aggregator PM who grew Rael (K-beauty) from $5M to $30M. Deep hands-on expertise across advertising, supply chain, and brand strategy."
+      },
+      {
+        "name": "Leo Park",
+        "role": "CPO",
+        "description": "Product lead and design engineer. Previously at a health-tech startup and SK Chemicals. University of Sydney."
+      },
+      {
+        "name": "Kai Kim",
+        "role": "CTO",
+        "description": "M.S. in ML/AI from Georgia Tech. Published at ICML and CVPR. 5+ years building production AI systems at scale."
+      }
+    ],
+    "dna": "Seoul · San Francisco · Sydney"
+  },
+  "cta": {
+    "titlePre": "Stop hiring. Start ",
+    "titleHighlight": "scaling",
+    "titlePost": ".",
+    "subtitle": "See what ROA can do for your brand in a 15-minute demo.",
+    "button": "Book a Demo"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Curious about ROA? Tell us about your brand and we'll show you what's possible.",
+    "name": "Name",
+    "namePlaceholder": "Jane Doe",
+    "email": "Email",
+    "emailPlaceholder": "jane@company.com",
+    "message": "Message",
+    "messagePlaceholder": "Tell us about your brand and what channels you're on...",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent. We'll be in touch soon.",
+    "error": "Something went wrong. Please try again."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: February 2026",
+    "content": "ROA (\"we\", \"us\", or \"our\") operates the roa.global website. This page informs you of our policies regarding the collection, use, and disclosure of personal information.\n\n**Information We Collect**\nWe collect information you provide directly, such as your name and email address when you use our contact form.\n\n**How We Use Information**\nWe use the information to respond to your inquiries and communicate with you about our services.\n\n**Third-Party Services**\nOur contact form is powered by Web3Forms. Please refer to their privacy policy for information on how they handle data.\n\n**Contact**\nIf you have questions about this policy, please contact us at hello@roa.global."
+  },
+  "footer": {
+    "description": "AI commerce platform for Amazon, DTC, and generative search.",
+    "navigation": "Menu",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms of Use",
+    "cookies": "Cookie Policy",
+    "connect": "Connect",
+    "companyInfo": "Business Information",
+    "englishRecord": "English",
+    "koreanRecord": "Korean",
+    "rights": "All rights reserved."
+  },
+  "cookieConsent": {
+    "message": "We use cookies to improve your experience and analyze site traffic.",
+    "accept": "Accept",
+    "decline": "Decline",
+    "learnMore": "Cookie Policy"
+  }
+}
