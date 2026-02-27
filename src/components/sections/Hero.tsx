@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import Badge from "@/components/ui/Badge";
@@ -57,6 +58,26 @@ export default function Hero() {
         </FadeIn>
 
         <FadeIn delay={0.3}>
+          <div className="mt-8 flex items-center justify-center gap-8">
+            <Image
+              src="/partners/amazon-ads-verified-partner.png"
+              alt="Amazon Ads Verified Partner"
+              width={153}
+              height={108}
+              className="h-14 w-auto object-contain opacity-40 transition-opacity duration-300 hover:opacity-80"
+            />
+            <div className="h-6 w-px bg-gray-200" />
+            <Image
+              src="/partners/shopify.svg"
+              alt="Shopify Partner"
+              width={110}
+              height={125}
+              className="h-10 w-auto object-contain opacity-35 transition-opacity duration-300 hover:opacity-80"
+            />
+          </div>
+        </FadeIn>
+
+        <FadeIn delay={0.4}>
           <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <Button as="a" href="#solutions">
               {t("cta1")}
@@ -67,12 +88,13 @@ export default function Hero() {
           </div>
         </FadeIn>
 
-        <FadeIn delay={0.4}>
-          <p className="mt-14 text-xs tracking-widest text-gray-400 uppercase">
+        <FadeIn delay={0.5}>
+          <p className="mt-14 text-sm tracking-widest text-gray-400 uppercase">
             {t("proof")}
           </p>
         </FadeIn>
       </div>
+
     </section>
   );
 }
