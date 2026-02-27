@@ -80,7 +80,7 @@ export default function ClientLogos() {
     <section className="py-12">
       <div className="mx-auto max-w-6xl px-6 sm:px-8 lg:px-12">
         <FadeIn>
-          <div className="flex items-center justify-center gap-x-8 overflow-x-auto text-gray-300 sm:gap-x-12">
+          <div className="flex items-center justify-center gap-x-6 overflow-x-auto text-gray-300 sm:gap-x-10 lg:gap-x-12 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
             {logos.map((LogoComponent, i) => (
               <LogoComponent key={i} />
             ))}

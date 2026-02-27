@@ -11,7 +11,7 @@ export default function Hero() {
   const t = useTranslations("hero");
 
   return (
-    <section className="relative flex min-h-[90vh] flex-col items-center justify-center overflow-hidden px-6 pb-24 pt-32 sm:px-8 lg:px-12">
+    <section className="relative flex min-h-[90vh] flex-col items-center justify-center overflow-hidden px-6 pb-16 pt-28 sm:px-8 sm:pb-24 sm:pt-32 lg:px-12">
       {/* Grid background — Dub style */}
       <div
         aria-hidden
@@ -31,7 +31,7 @@ export default function Hero() {
       {/* Emerald glow — center brand presence */}
       <div
         aria-hidden
-        className="absolute left-1/2 top-1/3 -translate-x-1/2 -translate-y-1/2 h-[500px] w-[800px] rounded-full bg-emerald-200/20 blur-[120px]"
+        className="absolute left-1/2 top-1/3 -translate-x-1/2 -translate-y-1/2 h-[300px] w-full max-w-[800px] rounded-full bg-emerald-200/20 blur-[80px] sm:h-[500px] sm:blur-[120px]"
       />
 
       <div className="relative z-10 mx-auto max-w-4xl text-center">
@@ -42,7 +42,7 @@ export default function Hero() {
         </FadeIn>
 
         <FadeIn delay={0.1}>
-          <h1 className="text-balance text-5xl font-bold tracking-tighter text-gray-900 sm:text-7xl lg:text-8xl">
+          <h1 className="text-balance text-4xl font-bold tracking-tighter text-gray-900 sm:text-6xl lg:text-8xl">
             {t("headlinePre")}
             <span className="bg-gradient-to-r from-emerald-600 to-emerald-400 bg-clip-text text-transparent">
               {t("headlineHighlight")}
@@ -52,7 +52,7 @@ export default function Hero() {
         </FadeIn>
 
         <FadeIn delay={0.2}>
-          <p className="text-balance mx-auto mt-8 max-w-2xl text-lg leading-relaxed text-gray-500 sm:text-xl">
+          <p className="text-balance mx-auto mt-6 max-w-2xl text-base leading-relaxed text-gray-500 sm:mt-8 sm:text-xl">
             {t("subline")}
           </p>
         </FadeIn>

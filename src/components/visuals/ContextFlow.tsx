@@ -94,7 +94,7 @@ export default function ContextFlow() {
         initial={{ opacity: 0, y: 12 }}
         animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 12 }}
         transition={{ duration: 0.5, ease }}
-        className="mb-6 flex justify-center gap-3"
+        className="mb-6 flex flex-wrap justify-center gap-2.5"
       >
         {sources.map((source, i) => {
           const isActive = activeSource === i;
@@ -214,7 +214,7 @@ export default function ContextFlow() {
                 </div>
 
                 {/* Title */}
-                <div className="relative mt-1.5 h-5 overflow-hidden">
+                <div className="relative mt-1.5 h-[22px] overflow-hidden">
                   <AnimatePresence mode="wait">
                     <motion.p
                       key={`${slot}-${article.title}`}

@@ -9,7 +9,7 @@ export default function CTA() {
   const t = useTranslations("cta");
 
   return (
-    <section className="relative overflow-hidden bg-emerald-900 px-6 py-32 sm:px-8 lg:px-12">
+    <section className="relative overflow-hidden bg-emerald-900 px-6 py-16 sm:px-8 sm:py-24 lg:px-12 lg:py-32">
       {/* Grid pattern */}
       <svg aria-hidden className="absolute inset-0 h-full w-full opacity-[0.04]" xmlns="http://www.w3.org/2000/svg">
         <defs>
@@ -23,7 +23,7 @@ export default function CTA() {
       {/* Gradient glow */}
       <div
         aria-hidden
-        className="absolute left-1/2 top-0 -translate-x-1/2 h-[400px] w-[800px] rounded-full bg-emerald-500/20 blur-[100px]"
+        className="absolute left-1/2 top-0 -translate-x-1/2 h-[250px] w-full max-w-[800px] rounded-full bg-emerald-500/20 blur-[60px] sm:h-[400px] sm:blur-[100px]"
       />
 
       <div className="relative z-10 mx-auto max-w-3xl text-center">

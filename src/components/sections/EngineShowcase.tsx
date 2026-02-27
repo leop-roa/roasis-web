@@ -21,7 +21,7 @@ function EngineText({ engineKey, capCount }: EngineTextProps) {
         <h3 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
           {t(`${engineKey}.title`)}
         </h3>
-        <p className="mt-4 text-lg leading-relaxed text-gray-500">
+        <p className="mt-4 text-base leading-relaxed text-gray-500 sm:text-lg">
           {t(`${engineKey}.description`)}
         </p>
 
@@ -51,7 +51,7 @@ export default function EngineShowcase() {
   return (
     <section id="solutions">
       {/* Section header */}
-      <div className="bg-white px-6 pt-24 pb-16 sm:px-8 lg:px-12">
+      <div className="bg-white px-6 pt-16 pb-8 sm:px-8 sm:pt-24 sm:pb-16 lg:px-12">
         <FadeIn>
           <div className="mx-auto max-w-2xl text-center">
             <p className="text-sm font-medium uppercase tracking-widest text-emerald-600">
@@ -72,16 +72,16 @@ export default function EngineShowcase() {
       </div>
 
       {/* Engine 1: Amazon — Text Left | Mockup Right */}
-      <div className="bg-white px-6 py-32 sm:px-8 lg:px-12">
-        <div className="mx-auto grid max-w-7xl items-center gap-12 lg:grid-cols-2 lg:gap-20">
+      <div className="bg-white px-6 py-16 sm:px-8 sm:py-24 lg:px-12 lg:py-32">
+        <div className="mx-auto grid max-w-7xl items-center gap-8 lg:grid-cols-2 lg:gap-20">
           <EngineText engineKey="amazon" capCount={5} />
           <AmazonMockup />
         </div>
       </div>
 
       {/* Engine 2: Contents — Mockup Left | Text Right */}
-      <div className="bg-gray-50 px-6 py-32 sm:px-8 lg:px-12">
-        <div className="mx-auto grid max-w-7xl items-center gap-12 lg:grid-cols-2 lg:gap-20">
+      <div className="bg-gray-50 px-6 py-16 sm:px-8 sm:py-24 lg:px-12 lg:py-32">
+        <div className="mx-auto grid max-w-7xl items-center gap-8 lg:grid-cols-2 lg:gap-20">
           <div className="order-2 lg:order-1">
             <ContentsMockup />
           </div>
@@ -92,15 +92,15 @@ export default function EngineShowcase() {
       </div>
 
       {/* Engine 3: GEO — Text Left | Mockup Right */}
-      <div className="bg-white px-6 py-32 sm:px-8 lg:px-12">
-        <div className="mx-auto grid max-w-7xl items-center gap-12 lg:grid-cols-2 lg:gap-20">
+      <div className="bg-white px-6 py-16 sm:px-8 sm:py-24 lg:px-12 lg:py-32">
+        <div className="mx-auto grid max-w-7xl items-center gap-8 lg:grid-cols-2 lg:gap-20">
           <EngineText engineKey="geo" capCount={4} />
           <GeoMockup />
         </div>
       </div>
 
       {/* Engine 4: Dashboard — Full-width mockup, text below */}
-      <div className="bg-gray-50 px-6 py-32 sm:px-8 lg:px-12">
+      <div className="bg-gray-50 px-6 py-16 sm:px-8 sm:py-24 lg:px-12 lg:py-32">
         <div className="mx-auto max-w-7xl">
           <FadeIn>
             <div className="mb-12 text-center">
@@ -134,7 +134,7 @@ export default function EngineShowcase() {
       </div>
 
       {/* Callout */}
-      <div className="bg-white px-6 py-16 sm:px-8 lg:px-12">
+      <div className="bg-white px-6 py-10 sm:px-8 sm:py-16 lg:px-12">
         <FadeIn>
           <p className="mx-auto max-w-3xl text-center text-sm text-gray-400">
             {t("callout")}

@@ -101,14 +101,14 @@ export default function ChannelBars() {
                 value={roas}
                 suffix="x"
                 decimals={1}
-                className="text-4xl font-bold tabular-nums text-emerald-600"
+                className="text-3xl font-bold tabular-nums text-emerald-600 sm:text-4xl"
               />
             ) : (
               <motion.span
                 initial={{ opacity: 0 }}
                 animate={isInView ? { opacity: 1 } : {}}
                 transition={{ duration: 0.5, delay: 0.3, ease }}
-                className="text-4xl font-bold tabular-nums text-emerald-600"
+                className="text-3xl font-bold tabular-nums text-emerald-600 sm:text-4xl"
               >
                 4.8x
               </motion.span>
@@ -143,7 +143,7 @@ export default function ChannelBars() {
         initial={{ opacity: 0 }}
         animate={isInView ? { opacity: 1 } : { opacity: 0 }}
         transition={{ duration: 0.4, delay: 0.3 }}
-        className="mb-5 flex gap-2"
+        className="mb-5 flex flex-wrap gap-2"
       >
         {channels.map((ch, i) => {
           const isActive = activeChannel === i;

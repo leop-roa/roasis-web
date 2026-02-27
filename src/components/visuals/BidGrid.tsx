@@ -132,10 +132,8 @@ export default function BidGrid() {
         className="mx-auto mt-8 flex justify-center"
       >
         <svg
-          width={TREND_W}
-          height={TREND_H + 28}
           viewBox={`0 0 ${TREND_W} ${TREND_H + 28}`}
-          className="overflow-visible"
+          className="w-full max-w-[320px] overflow-visible"
         >
           <defs>
             {/* Gradient fill under curve */}
