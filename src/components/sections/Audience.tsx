@@ -17,14 +17,17 @@ export default function Audience() {
 
       <FadeIn>
         <div className="mx-auto max-w-2xl text-center">
-          <h2 className="text-balance text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+          <p className="text-sm font-medium uppercase tracking-widest text-emerald-600">
+            Who It&apos;s For
+          </p>
+          <h2 className="text-balance mt-3 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
             {t("titlePre")}
             <span className="bg-gradient-to-r from-emerald-600 to-emerald-400 bg-clip-text text-transparent">
               {t("titleHighlight")}
             </span>
             {t("titlePost")}
           </h2>
-          <p className="text-balance mt-6 text-lg text-gray-500">
+          <p className="text-balance mx-auto mt-6 max-w-2xl text-lg text-gray-500">
             {t("subtitle")}
           </p>
         </div>
@@ -35,7 +38,7 @@ export default function Audience() {
           const Icon = icons[i];
           return (
             <FadeIn key={i} delay={i * 0.1}>
-              <Card className="flex h-full flex-col p-8">
+              <Card className="flex h-full flex-col">
                 <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-emerald-50">
                   <Icon className="h-5 w-5 text-emerald-600" />
                 </div>

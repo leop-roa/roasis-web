@@ -51,20 +51,20 @@ export default function EngineShowcase() {
   return (
     <section id="solutions">
       {/* Section header */}
-      <div className="bg-white px-6 pt-32 pb-16 sm:px-8 lg:px-12">
+      <div className="bg-white px-6 pt-24 pb-16 sm:px-8 lg:px-12">
         <FadeIn>
           <div className="mx-auto max-w-2xl text-center">
             <p className="text-sm font-medium uppercase tracking-widest text-emerald-600">
               Platform
             </p>
-            <h2 className="text-balance mt-3 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+            <h2 className="text-balance mt-3 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
               {t("titlePre")}
               <span className="bg-gradient-to-r from-emerald-600 to-emerald-400 bg-clip-text text-transparent">
                 {t("titleHighlight")}
               </span>
               {t("titlePost")}
             </h2>
-            <p className="text-balance mt-6 text-lg text-gray-500">
+            <p className="text-balance mx-auto mt-6 max-w-2xl text-lg text-gray-500">
               {t("subtitle")}
             </p>
           </div>
@@ -116,13 +116,16 @@ export default function EngineShowcase() {
           <FadeIn delay={0.4}>
             <div className="mx-auto mt-12 grid max-w-3xl gap-6 sm:grid-cols-3">
               {Array.from({ length: 3 }, (_, i) => (
-                <div key={i} className="text-center">
-                  <p className="font-medium text-gray-900">
-                    {t(`dashboard.capabilities.${i}.title`)}
-                  </p>
-                  <p className="mt-1 text-sm text-gray-400">
-                    {t(`dashboard.capabilities.${i}.description`)}
-                  </p>
+                <div key={i} className="flex items-start gap-3">
+                  <div className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-emerald-500" />
+                  <div>
+                    <p className="font-medium text-gray-900">
+                      {t(`dashboard.capabilities.${i}.title`)}
+                    </p>
+                    <p className="mt-0.5 text-sm text-gray-400">
+                      {t(`dashboard.capabilities.${i}.description`)}
+                    </p>
+                  </div>
                 </div>
               ))}
             </div>

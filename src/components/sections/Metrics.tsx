@@ -16,10 +16,10 @@ export default function Metrics() {
           <p className="text-sm font-medium uppercase tracking-widest text-emerald-600">
             Results
           </p>
-          <h2 className="text-balance mt-3 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+          <h2 className="text-balance mt-3 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
             {t("title")}
           </h2>
-          <p className="text-balance mt-4 text-lg text-gray-500">
+          <p className="text-balance mx-auto mt-6 max-w-2xl text-lg text-gray-500">
             {t("subtitle")}
           </p>
         </div>

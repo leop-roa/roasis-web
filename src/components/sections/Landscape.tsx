@@ -52,14 +52,14 @@ export default function Landscape() {
           <p className="text-sm font-medium uppercase tracking-widest text-emerald-600">
             Comparison
           </p>
-          <h2 className="text-balance mt-3 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+          <h2 className="text-balance mt-3 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
             {t("titlePre")}
             <span className="bg-gradient-to-r from-emerald-600 to-emerald-400 bg-clip-text text-transparent">
               {t("titleHighlight")}
             </span>
             {t("titlePost")}
           </h2>
-          <p className="text-balance mx-auto mt-4 max-w-2xl text-lg text-gray-500">
+          <p className="text-balance mx-auto mt-6 max-w-2xl text-lg text-gray-500">
             {t("subtitle")}
           </p>
         </div>

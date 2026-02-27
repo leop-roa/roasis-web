@@ -37,7 +37,7 @@ export default function CTA() {
           </h2>
         </FadeIn>
         <FadeIn delay={0.1}>
-          <p className="text-balance mt-6 text-xl text-emerald-200">{t("subtitle")}</p>
+          <p className="text-balance mx-auto mt-6 max-w-2xl text-lg text-emerald-200">{t("subtitle")}</p>
         </FadeIn>
         <FadeIn delay={0.2}>
           <div className="mt-10">
